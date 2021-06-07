@@ -5,6 +5,5 @@
     "unity": "2019.3",
     "displayName": "kMirrors",
     "dependencies": {
-        "com.unity.render-pipelines.universal": "10.x.x"
     }
 }
